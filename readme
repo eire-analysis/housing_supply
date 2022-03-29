@@ -1,0 +1,6 @@
+Housing Supply
+
+This file uses CSO data, BHQ02 and BHQ12 (planning permission units) along with NDQ06 housing completions (https://data.cso.ie/), to estimate the quantity of unbuilt
+units remaining in the Irish housing system.
+
+Planning permissions cover the period 2010-Present and completions the period 2011-Present.
